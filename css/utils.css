@@ -1,0 +1,19 @@
+.flex-all-center
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.my-1{
+    margin: 10px 0px;
+}
+.my-2{
+    line-height: 1.1;
+}
+.text-center
+{
+    text-align: center;
+}
+/* .underline{
+     font-style: underline;
+} */
